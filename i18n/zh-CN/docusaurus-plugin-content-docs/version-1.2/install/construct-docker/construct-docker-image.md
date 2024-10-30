@@ -265,7 +265,7 @@ mkdir -p ./docker-build/broker/resource
 
    编写后命名为 `Dockerfile` 并保存至 `./docker-build/broker` 目录下
 
-4. 编写 BE 的执行脚本
+4. 编写 Broker 的执行脚本
 
    可参考复制 [init_broker.sh](https://github.com/apache/doris/tree/master/docker/runtime/broker/resource/init_broker.sh) 的内容
 
